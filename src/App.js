@@ -46,6 +46,7 @@ const OtpForm = () => {
 
   return (
     // <form ref={formRef}>
+    I changed it to normal
       <input type="text" autoComplete="one-time-code" inputMode="numeric" name="one-time-code" />
       // <button type="submit">Submit</button>
     // </form>
