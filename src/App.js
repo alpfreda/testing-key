@@ -51,6 +51,7 @@ const OtpForm = () => {
       <input type="text" autoComplete="one-time-code" inputMode="numeric" name="one-time-code" />
       {/* // <button type="submit">Submit</button> */}
     {/* // </form> */}
+    
     </div>
   );
 };
